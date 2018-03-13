@@ -1,0 +1,19 @@
+{
+  "name": "drupal/noor",
+  "description": "Noor is a clean, attractive theme designed to be used for Drupal 8 blog and portfolio websites. It makes use of vibrant colors, beautiful typography, and a responsive design based off of the bootstrap framework which makes the design look great on any device.",
+  "type": "drupal-theme",
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://www.drupal.org/project/noor",
+  "authors": [
+    {
+      "name": "Ashraf Abed",
+      "homepage": "https://www.drupal.org/u/ashrafabed",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "drupal/bootstrap": "^3.11",
+    "twbs/bootstrap-sass": "3.3.x-dev"
+  },
+  "minimum-stability": "dev"
+}
